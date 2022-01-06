@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+img {
+    float: left;
+    width: 135px;
+    padding-right: 3%;
+    display: block;
+    margin: 0 auto; 
+}
+
+span{
+    text-align: left;
+    padding: 3%;
+    font-size: 20px;
+}
+
+div {
+    margin: auto;
+    display: block;
+    width: 80%;
+    background-color: lightgrey;
+    padding: 1%;
+    border-radius: 10px;
+    padding-bottom: 3%;
+}	
